@@ -465,7 +465,7 @@ ul.slick-dots {
   font-size: 44px;
   font-weight: 700;
   letter-spacing: 2.5px;
-  color:#FFF;
+  color:#ff8818;
   overflow:hidden;
   animation:fadeOutLeft 1s both;
 }
@@ -522,7 +522,7 @@ ul.slick-dots {
 /* Request Form */
 
 .request-form {
-	background-color: #a4c639;
+	background-color: #ff8818;
 	padding: 40px 0px;
 	color: #fff;
 }
@@ -759,7 +759,7 @@ ul.slick-dots {
 }
 
 .callback-form .contact-form {
-	background-color: #a4c639;
+	background-color: #ff8818;
 	padding: 60px;
 	border-radius: 5px;
 	text-align: center;
